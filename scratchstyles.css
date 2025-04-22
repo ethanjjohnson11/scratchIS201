@@ -45,14 +45,11 @@ a{
 
 
 
-.common_div{
+.common_div {
     background-color: rgb(86, 171, 104);
     border: 2px solid;
-    position: absolute;
-    overflow: auto;
     padding: 2px;
     text-align: center;
-
 }
 
 .header_div{
@@ -78,6 +75,7 @@ font-size: 35px;
     right: 5px;
     width: 350px;
     bottom: 550px;
+    text-align: center;
 }
 
 .main_div{
